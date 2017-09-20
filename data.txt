@@ -1,0 +1,5 @@
+4 Rachelyn Collins 0.23 3 P 20.0 20.0 20.0
+2 Mehul Gupta 0.1 1 F 0.0
+1 Manasi Goyal 0.1 2 P 16.25 20.0 40.0
+3 Trevor Lau 0.2 3 F 20000.0
+5 Judy Liu 0.2 2 P 30.0 30.0 30.0
